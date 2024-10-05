@@ -2,9 +2,9 @@ import './App.css';
 
 function App() {
   return (
-    <>
-    <h1> Learn Redux Tool Kit</h1>
-    </>
+    <div>
+      <h1> Learn Redux Tool Kit</h1>
+    </div>
   );
 }
 
